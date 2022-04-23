@@ -11,13 +11,6 @@
   - 🌱 I’m currently learning **~React, Redux, Context, Hooks, Node, SQL, Docker...~** to **learn** at <a href="https://www.betrybe.com">Trybe</a>
 
   - 📫 How to reach me **airamlobato@gmail.com**
-  
-  <h3>Connect with me:</h3>
-  <div>
-    <a href="https://www.linkedin.com/in/airamtoscano/">
-      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-    </a>
-  </div>
 
   <h3>Languages and Tools that I am learning / have interest:</h3>
   <div>
@@ -59,10 +52,10 @@
   </a>
   <br>
 </div>
-  
-<!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AiramToscano&theme=onestar&no-frame=true" alt="lkotlarenko Profile Trophies" />
-  </a>
-</div>
+    <h3>Connect with me:</h3>
+  <div>
+    <a href="https://www.linkedin.com/in/airamtoscano/">
+      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
+    </a>
+  </div>
+
