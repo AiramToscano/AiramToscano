@@ -54,7 +54,7 @@
 
 <!-- Snake contributions graph https://github.com/Platane/snk -->
 <div align="center">
-  <a href="https://github.com/AiramToscano#user-activity-overview">
+  <a href="https://github.com/AiramToscano">
     <img src="https://github.com/AiramToscano/AiramToscano/blob/output/github-contribution-grid-snake.svg" alt="Snake contributions animation"/>
   </a>
   <br>
@@ -63,6 +63,6 @@
 <!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=lkotlarenko&theme=onestar&no-frame=true" alt="lkotlarenko Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=AiramToscano&theme=onestar&no-frame=true" alt="lkotlarenko Profile Trophies" />
   </a>
 </div>
