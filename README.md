@@ -2,13 +2,13 @@
 
 <header>
   <h1 align="center">Hi, I'm Airam!</h1>
-  <h3 align="center"> Control and Automation Engineer :)</h3>
+  <h3 align="center"> Control and Automation Engineer</h3>
 </header>
 
 <section align="left">
   <img src="https://komarev.com/ghpvc/?username=AiramToscano&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
 
-  - 🌱 I’m currently learning **~React, Redux, Context, Hooks, Node, SQL, Docker...~** to **learn** at <a href="https://www.betrybe.com">Trybe</a>
+  - 🌱 I’m currently learning **React, Redux, Context, Hooks, Node.js, SQL, Docker...** to **learn** at <a href="https://www.betrybe.com">Trybe</a>
 
   - 📫 How to reach me **airamlobato@gmail.com**
 
@@ -54,8 +54,6 @@
 </div>
     <h3>Connect with me:</h3>
   <div>
-    <a href="https://www.linkedin.com/in/airamtoscano/">
-      <img align="center" src="https://raw.githubusercontent.com/lkotlarenko/lkotlarenko/main/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-    </a>
+   <a href="https://www.linkedin.com/in/airamtoscano/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 
