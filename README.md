@@ -6,7 +6,6 @@
 </header>
 
 <section align="left">
-  <img src="https://komarev.com/ghpvc/?username=AiramToscano&label=Profile%20views&color=218a45&style=flat" alt="Profile Views" />
 
   - 🌱 I’m currently learning **React, Redux, Context, Hooks, Node.js, SQL, Docker...** to **learn** at <a href="https://www.betrybe.com">Trybe</a>
 
