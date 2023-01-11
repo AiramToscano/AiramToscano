@@ -7,11 +7,13 @@
 
 <section align="left">
   
-  - 🌱 No momento estou aprendendo **Javascript, Java, Python, AWS, Dokcer**.
+  - 🌱 No momento estou aprendendo **Javascript, Java, Python, AWS, Docker**.
   
-  - 💻 Desenvolvedor web Full-Stack - [Trybe](https://www.betrybe.com/)
+  - 💻 Desenvolvedor Web Full-Stack - [Trybe](https://www.betrybe.com/)
   
-  - 💻 Pós-Graduação em Análise e Desenvolvimento de sistemas - [Descomplica](https://descomplica.com.br/)
+  - 💻 Pós-graduação em Análise e Desenvolvimento de sistemas - [Descomplica](https://descomplica.com.br/)
+  
+  - 💻 Pós-graduação em Projetos de Cloud Computing - [Descomplica](https://descomplica.com.br/)
   
   - 📫 Email:  **airamlobato@gmail.com**
 
