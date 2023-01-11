@@ -1,15 +1,19 @@
 <!-- Thanks to https://github.com/rahuldkjain/github-profile-readme-generator -->
 
 <header>
-  <h1 align="center">Hi, I'm Airam!</h1>
-  <h3 align="center"> Control and Automation Engineer</h3>
+  <h1 align="center">Olá, Eu sou o Airam Toscano!</h1>
+  <h3 align="center"> Engenheiro de Controle e Automação</h3>
 </header>
 
 <section align="left">
-
-  - 🌱 I’m currently learning **Javascript, Java, Python**.
-
-  - 📫 How to reach me **airamlobato@gmail.com**
+  
+  - 🌱 No momento estou aprendendo **Javascript, Java, Python, AWS, Dokcer**.
+  
+  - 💻 Desenvolvedor web Full-Stack - [Trybe](https://www.betrybe.com/)
+  
+  - 💻 Pós-Graduação em Análise e Desenvolvimento de sistemas - [Descomplica](https://descomplica.com.br/)
+  
+  - 📫 Email:  **airamlobato@gmail.com**
 
  
 <h3 align="left">Stacks:</h3>
