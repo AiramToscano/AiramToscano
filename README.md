@@ -7,7 +7,6 @@
 
 <section align="left">
   
-  - 🌱 No momento estou aprendendo **Javascript, Java, Python, AWS, Docker**.
   
   - 💻 Desenvolvedor Web Full-Stack - [Trybe](https://www.betrybe.com/)
   
