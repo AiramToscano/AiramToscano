@@ -2,19 +2,20 @@
 
 <header>
   <h1 align="center">Olá, Eu sou o Airam Toscano!</h1>
-  <h3 align="center"> Engenheiro de Controle e Automação</h3>
 </header>
 
 <section align="left">
   
   
   - 💻 Desenvolvedor Web Full-Stack - [Trybe](https://www.betrybe.com/)
+    
+  - 💻 Engenheiro de Controle e Automação - [UFMT](https://www.ufmt.br/)
 
-  -  💻 MBA- Engenharia de Software - [USP](https://mbauspesalq.com/cursos/mba-em-engenharia-de-software)
+  -  💻 MBA - Engenharia de Software - [USP](https://mbauspesalq.com/cursos/mba-em-engenharia-de-software)
   
-  - 💻 Pós-graduado em Análise e Desenvolvimento de sistemas - [Descomplica](https://descomplica.com.br/)
+  - 💻 Pós-Graduado em Análise e Desenvolvimento de sistemas - [Descomplica](https://descomplica.com.br/)
   
-  - 💻 Pós-graduado em Projetos de Cloud Computing - [Descomplica](https://descomplica.com.br/)
+  - 💻 Pós-Graduado em Projetos de Cloud Computing - [Descomplica](https://descomplica.com.br/)
   
   - 📫 Email:  **airamlobato@gmail.com**
 
