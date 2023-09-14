@@ -9,10 +9,12 @@
   
   
   - 💻 Desenvolvedor Web Full-Stack - [Trybe](https://www.betrybe.com/)
+
+  -  💻 MBA- Engenharia de Software - [USP](https://mbauspesalq.com/cursos/mba-em-engenharia-de-software)
   
-  - 💻 Pós-graduação em Análise e Desenvolvimento de sistemas - [Descomplica](https://descomplica.com.br/)
+  - 💻 Pós-graduado em Análise e Desenvolvimento de sistemas - [Descomplica](https://descomplica.com.br/)
   
-  - 💻 Pós-graduação em Projetos de Cloud Computing - [Descomplica](https://descomplica.com.br/)
+  - 💻 Pós-graduado em Projetos de Cloud Computing - [Descomplica](https://descomplica.com.br/)
   
   - 📫 Email:  **airamlobato@gmail.com**
 
